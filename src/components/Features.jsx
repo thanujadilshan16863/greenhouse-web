@@ -66,7 +66,7 @@ export default function Features() {
           >
             <FaWater className="mx-auto text-blue-500 text-6xl" />
             <h3 className="text-xl font-semibold mt-4">Humidity Regulation</h3>
-            <p className="mt-2 text-gray-600">Maintain perfect humidity for a thriving greenhouse.</p>
+            <p className="mt-2 text-gray-600">Maintain perfect humidity for a thriving greenhouse.</p> 
           </motion.div>
         </div>
       </div>
