@@ -15,6 +15,12 @@ export default function App() {
   return (
     <Router>
       <Navbar/>
+      
+      <HeroSection />
+      <Features />
+      <Technology />
+      
+      
       <Routes>
         
         <Route path="/" element={<HeroSection />} />
@@ -25,6 +31,7 @@ export default function App() {
         <Route path="/dashboard" element={<Dashboard />} />
         
       </Routes>
+      
     </Router>
   );
 }

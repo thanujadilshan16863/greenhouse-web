@@ -12,7 +12,7 @@ export default function Navbar() {
           <Link to="/features" className="text-gray-700">Features</Link>
           <Link to="/technology" className="text-gray-700">Technology</Link>
           <Link to="/contact" className="px-4 py-2 bg-green-500 text-white rounded-lg">Contact Us</Link>
-          <Link to="/login" className="px-4 py-2 bg-green-400 text-white rounded-lg">Login</Link>
+          <Link to="/login" className="px-4 py-2 bg-green-500 text-white rounded-lg">Login</Link>
         </div>
       </div>
     </nav>
